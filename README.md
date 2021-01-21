@@ -13,7 +13,6 @@
 2. BackMonitor  
 2-1 backmonitor1.ino  
 ・WebServerによる通知,カメラによる画像取得,一定時間の時刻取得を行うプログラム  
- 
 2-2 backmonitor2.ino  
 ・WebServerによる通知,Audioによる音声出力,一定時間の時刻取得を行うプログラム  
 
