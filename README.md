@@ -45,11 +45,10 @@
 ![time](https://user-images.githubusercontent.com/77111746/105329670-be7e9480-5c14-11eb-85f6-80b2c56cd32e.JPG)  
 
 # デモ動画
-## Cameraversion
-[![Watch the video](https://user-images.githubusercontent.com/77111746/105333904-98a7be80-5c19-11eb-9360-ac1021826786.png)]
-(https://user-images.githubusercontent.com/77111746/105333653-52525f80-5c19-11eb-8fc8-de8bb3a48500.mp4)
+## Camera Version
+[![Watch the video](https://user-images.githubusercontent.com/77111746/105333904-98a7be80-5c19-11eb-9360-ac1021826786.png)](https://user-images.githubusercontent.com/77111746/105333653-52525f80-5c19-11eb-8fc8-de8bb3a48500.mp4)  
 
-## AudioVersion
+## Audio Version
 
 # SysMLモデル
 ## コンテキスト図  
