@@ -11,7 +11,7 @@
 2.BackMonitor<br>
 ・人間の背後を監視するためのArduino用のファイル<br>
 3.SOUND<br>
-・使用した音声データ<br>
+・使用した音声データ(警告音)<br>
 また,本音声は<a href="https://otologic.jp/free/se/warning01.html" rel="noopener noreferrer" target="_blank">https://otologic.jp/free/se/warning01.html</a>を用いて作成した
 
 
