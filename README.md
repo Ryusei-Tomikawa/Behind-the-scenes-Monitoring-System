@@ -44,4 +44,4 @@
 
 <h1>SysMLモデル</h1>
 <h3>コンテキスト図</h3>
-![コンテキスト図](https://user-images.githubusercontent.com/77111746/105327641-7bbbbd00-5c12-11eb-825a-366ac668004b.JPG)
+![context](https://user-images.githubusercontent.com/77111746/105327755-a6a61100-5c12-11eb-9684-d736e97a28dd.JPG)
