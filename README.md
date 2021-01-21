@@ -3,7 +3,7 @@
 <h2>機能</h2>
 1.歩行中に一定距離範囲に入ることで背後に人がいることを赤外線アレイセンサー(<a href="https://www.switch-science.com/catalog/3848/" rel="noopener noreferrer" target="_blank">https://www.switch-science.com/catalog/3848/</a>)を用いて人検知を行う.<br>
 <br>
-2.人検知後,カメラによる画像取得,一定時間の時刻取得を行う.
+2.人検知後,WebServerによる通知,音声出力,カメラによる画像取得,一定時間の時刻取得を行う.
 
 
 <h2>ファイルの説明</h2>
