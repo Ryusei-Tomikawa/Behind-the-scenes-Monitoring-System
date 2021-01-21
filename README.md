@@ -7,7 +7,7 @@
 
 
 <h1>ファイルの説明</h1>
-<h6>1.</h6> BIN<br>
+<h5>1.</h5> BIN<br>
 <li>Audioを使用する際に必要なファイル(SDカードに保存するファイル)<br>
 <br>  
 2. BackMonitor<br>
