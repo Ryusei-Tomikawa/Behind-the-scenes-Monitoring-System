@@ -16,6 +16,14 @@
 
 
 <h2>使用方法</h2>
+1.SDカード内にBIN,SOUNDの各ファイルを書き込む<br>
+2.SDカード内にdirファイルを作成し,その中にtime.txtを作成し保存する.<br>
+3.SPRESENSEにMicroSDカードを挿入し,バッテリー電源を接続する.<br>
+4.backmonitor.inoのSSID,PASSは必要に応じて各自変更してもよい(defaultでも動作可能)<br>
+→その際のSSID,PASSは,"SprESP8266AP","123123123"である.<br>
+5.backmonitor.inoをSPRESENSEに書き込むと人検知が開始する.<br>
+6.サーモグラフィにより人検知した場合,シリアルモニターに出力されるhttp://"出力されるIPアドレスにスマホやPCでアクセスするとWebServerにアクセスし通知する.<br>
+7.6と同時にカメラによる画像取得,一定時間の時刻取得,音声出力を行う.<br>
 
 <h2>SysMLモデル</h2>
 
