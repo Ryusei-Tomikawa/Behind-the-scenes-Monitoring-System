@@ -11,7 +11,11 @@
 <li>Audioを使用する際に必要なファイル(SDカードに保存するファイル)<br>
 <br>  
 2.BackMonitor<br>
-<li>人間の背後を監視するためのArduino用のファイル<br>
+2-1 backmonitor1.ino<br>
+<li>WebServerによる通知,カメラによる画像取得,一定時間の時刻取得を行うプログラム<br>
+ 
+2-2 backmonitor2.ino<br>
+<li>WebServerによる通知,Audioによる音声出力,一定時間の時刻取得を行うプログラム<br>
 <br>
 3.SOUND<br>
 <li>使用した音声データ<br>
