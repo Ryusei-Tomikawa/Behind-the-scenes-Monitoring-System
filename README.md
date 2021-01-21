@@ -46,9 +46,10 @@
 
 # デモ動画
 ## Camera Version
-[![Watch the video](https://user-images.githubusercontent.com/77111746/105333904-98a7be80-5c19-11eb-9360-ac1021826786.png)](https://user-images.githubusercontent.com/77111746/105333653-52525f80-5c19-11eb-8fc8-de8bb3a48500.mp4)  
+[![Watch the video](https://user-images.githubusercontent.com/77111746/105334556-5c289280-5c1a-11eb-9016-284c609e71ba.JPG)](https://user-images.githubusercontent.com/77111746/105333653-52525f80-5c19-11eb-8fc8-de8bb3a48500.mp4)  
 
 ## Audio Version
+[![Watch the video](https://user-images.githubusercontent.com/77111746/105334628-73678000-5c1a-11eb-9627-ec42715c537c.JPG)](https://user-images.githubusercontent.com/77111746/105333653-52525f80-5c19-11eb-8fc8-de8bb3a48500.mp4) 
 
 # SysMLモデル
 ## コンテキスト図  
