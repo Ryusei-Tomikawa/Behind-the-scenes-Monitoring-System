@@ -39,9 +39,9 @@
 8. SPRESENSEに挿入したMicroSDカードには,"PICT000～PICT0009"という名前の画像が保存され,/dir/time.txtには,人検知をした時刻が保存される.  
   
 
-## WebServer通知画面例
+# WebServer通知画面例
 ![WebServer](https://user-images.githubusercontent.com/77111746/105331728-2209c180-5c17-11eb-8b40-dea29e1e20e5.jpg)  
-## dir/time.txtの例
+# /dir/time.txtの例
 ![time](https://user-images.githubusercontent.com/77111746/105329670-be7e9480-5c14-11eb-85f6-80b2c56cd32e.JPG)  
 
 # デモ動画
