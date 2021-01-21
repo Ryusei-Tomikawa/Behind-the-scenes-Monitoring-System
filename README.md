@@ -1,8 +1,8 @@
 # 成果物 "人間の背後を監視する装置"
 
 # 機能
-1. 歩行中に一定距離範囲に入ることで背後に人がいることを赤外線アレイセンサー(<a href="https://www.switch-science.com/catalog/3848/" rel="noopener noreferrer" target="_blank">https://www.switch-science.com/catalog/3848/</a>)を用いて人検知を行う.<br>
-<br>
+1. 歩行中に一定距離範囲に入ることで背後に人がいることを赤外線アレイセンサー(<a href="https://www.switch-science.com/catalog/3848/" rel="noopener noreferrer" target="_blank">https://www.switch-science.com/catalog/3848/</a>)を用いて人検知を行う.　　
+　　
 2. 人検知後,WebServerによる通知,音声出力,カメラによる画像取得,一定時間の時刻取得を行う.
 
 
