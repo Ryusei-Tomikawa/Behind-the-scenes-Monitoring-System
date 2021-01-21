@@ -18,17 +18,16 @@
 
 3. SOUND  
 ・使用した音声データ(Warning.mp3)  
-また,本音声は<a href="https://otologic.jp/free/se/warning01.html" rel="noopener noreferrer" target="_blank">https://otologic.jp/free/se/warning01.html</a>を用いて作成した
-
+また,本音声は<a href="https://otologic.jp/free/se/warning01.html" rel="noopener noreferrer" target="_blank">https://otologic.jp/free/se/warning01.html</a>を用いて作成した.  
 
 # 使用方法
-1. SDカード内にBIN,SOUNDの各ファイルを書き込む  
+1. SDカード内にBIN,SOUNDの各ファイルを保存する.  
   
 2. SDカード内にdirファイルを作成し,その中にtime.txtを作成する.  
-<br>
+
 3. SPRESENSEにMicroSDカードを挿入し,バッテリー電源を接続する.  
-  
-4. backmonitor.inoのSSID,PASSは必要に応じて各自変更してもよい(defaultでも動作可能)  
+
+4. backmonitor.inoのSSID,PASSは必要に応じて各自変更してもよい.(defaultでも動作可能)  
 →その際のSSID,PASSは,"SprESP8266AP","123123123"である.  
   
 5. backmonitor.inoをSPRESENSEに書き込むと人検知が開始する.  
