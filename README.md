@@ -1,13 +1,13 @@
 <h1> 成果物 "人間の背後を監視する装置"</h1>
 
-<h2>機能</h2>
+<h1>機能</h1>
 1. 歩行中に一定距離範囲に入ることで背後に人がいることを赤外線アレイセンサー(<a href="https://www.switch-science.com/catalog/3848/" rel="noopener noreferrer" target="_blank">https://www.switch-science.com/catalog/3848/</a>)を用いて人検知を行う.<br>
 <br>
 2. 人検知後,WebServerによる通知,音声出力,カメラによる画像取得,一定時間の時刻取得を行う.
 
 
-<h2>ファイルの説明</h2>
-1. BIN<br>
+<h1>ファイルの説明</h1>
+<h6>1.</h6> BIN<br>
 <li>Audioを使用する際に必要なファイル(SDカードに保存するファイル)<br>
 <br>  
 2. BackMonitor<br>
@@ -22,7 +22,7 @@
 また,本音声は<a href="https://otologic.jp/free/se/warning01.html" rel="noopener noreferrer" target="_blank">https://otologic.jp/free/se/warning01.html</a>を用いて作成した
 
 
-<h2>使用方法</h2>
+<h1>使用方法</h1>
 1. SDカード内にBIN,SOUNDの各ファイルを書き込む<br>
 <br>
 2. SDカード内にdirファイルを作成し,その中にtime.txtを作成する.<br>
@@ -42,7 +42,10 @@
 <br>
 
 
-<h2>SysMLモデル</h2>
+<h1>SysMLモデル</h1>
 <h3>コンテキスト図</h3>
-![ユースケース図](https://user-images.githubusercontent.com/77111746/105328688-a78b7280-5c13-11eb-94e5-48ecd873bad7.png)
+<h3>要求図</h3>
+<h3>アクティビティ図</h3>
+<h3>ユースケース図</h3>
+<h3>ブロック定義図</h3>
 
