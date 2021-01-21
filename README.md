@@ -18,7 +18,7 @@
 <li>WebServerによる通知,Audioによる音声出力,一定時間の時刻取得を行うプログラム<br>
 <br>
 3. SOUND<br>
-<li>使用した音声データ<br>
+<li>使用した音声データ(Warning.mp3)<br>
 また,本音声は<a href="https://otologic.jp/free/se/warning01.html" rel="noopener noreferrer" target="_blank">https://otologic.jp/free/se/warning01.html</a>を用いて作成した
 
 
