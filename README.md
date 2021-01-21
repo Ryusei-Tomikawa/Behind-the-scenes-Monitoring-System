@@ -44,5 +44,4 @@
 
 <h1>SysMLモデル</h1>
 <h3>コンテキスト図</h3>
-[コンテキスト図](C:\Users\ryusei\Desktop/コンテキスト図)
 
