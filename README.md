@@ -8,6 +8,7 @@
 <h2>ファイルの説明</h2>
 1.BIN<br>
 ・Audioを使用する際に必要なファイル(SDカードに保存するファイル)<br>
+<\n>
 2.BackMonitor<br>
 ・人間の背後を監視するためのArduino用のファイル<br>
 3.SOUND<br>
