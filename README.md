@@ -1,5 +1,4 @@
-![time](https://user-images.githubusercontent.com/77111746/105329670-be7e9480-5c14-11eb-85f6-80b2c56cd32e.JPG)
-<h1> 成果物 "人間の背後を監視する装置"</h1>
+# 成果物 "人間の背後を監視する装置"
 
 <h1>機能</h1>
 1. 歩行中に一定距離範囲に入ることで背後に人がいることを赤外線アレイセンサー(<a href="https://www.switch-science.com/catalog/3848/" rel="noopener noreferrer" target="_blank">https://www.switch-science.com/catalog/3848/</a>)を用いて人検知を行う.<br>
