@@ -25,7 +25,7 @@
   
 2. SDカード内にdirファイルを作成し,その中にtime.txtを作成する.  
 
-3. SPRESENSEにMicroSDカードを挿入し,バッテリー電源を接続する.  
+3. SPRESENSEにmicroSDカードを挿入し,バッテリー電源を接続する.  
 
 4. backmonitor.inoのSSID,PASSは必要に応じて各自変更してもよい.(defaultでも動作可能)  
 →その際のSSID,PASSは,"SprESP8266AP","123123123"である.  
@@ -36,7 +36,7 @@
   
 7. 6と同時にカメラによる画像取得,一定時間の時刻取得,音声出力を行う.  
   
-8. SPRESENSEに挿入したMicroSDカードには,"PICT000～PICT0009"という名前の画像が保存され,/dir/time.txtには,人検知をした時刻が保存される.  
+8. SPRESENSEに挿入したmicroSDカードには,"PICT000～PICT0009"という名前の画像が保存され,/dir/time.txtには,人検知をした時刻が保存される.  
   
 
 # WebServer通知画面例
