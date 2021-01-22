@@ -49,8 +49,8 @@
 [![Watch the video](https://user-images.githubusercontent.com/77111746/105334628-73678000-5c1a-11eb-9627-ec42715c537c.JPG)](https://user-images.githubusercontent.com/77111746/105333653-52525f80-5c19-11eb-8fc8-de8bb3a48500.mp4) 
 
 # SysMLモデル
-## コンテキスト図  
-![防犯監視システム_コンテキスト図](https://user-images.githubusercontent.com/77111746/105486088-46d26780-5cf1-11eb-960c-2d78deb37a6e.JPG)  
+## コンテキスト図    
+![コンテキスト図](https://user-images.githubusercontent.com/77111746/105486310-a2045a00-5cf1-11eb-8c34-460523f6b6ce.JPG)  
 
 ## 要求図  
 ![要求図](https://user-images.githubusercontent.com/77111746/105332124-9b091900-5c17-11eb-9e15-333ce2340550.JPG)  
